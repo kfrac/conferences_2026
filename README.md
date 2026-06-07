@@ -56,6 +56,7 @@
   - Time Geography and Geography in Time, Toronto, 7--11 July 2026
   - 2026 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), https://2026.ieeeigarss.org/, Washington, 9--14 August 2026
   - CaGIS Conference, https://cartogis.org/conferences/cagis2026/, St. Louis, 8--11 September 2026
+  - 2026 Geo for Good Earth Engine Impact Partner Summit, https://earthoutreachonair.withgoogle.com/events/geoforgood26-map, Google Headquarters, Mountain View, CA, USA, 15--17 September 2026
   - CNG Forum 2026, https://2026.cloudnativegeo.org/, Snowbird, 6--9 October 2026
   - FOSS4G North America 2026, TBD
 
@@ -65,6 +66,7 @@
 
 ## South America
   - **(Spanish)** Semana Geomática 11 Edición Internacional, https://www.igac.gov.co/semana-geomatica-11-edicion-internacional-2026, Bogotá, Colombia, 21--24 July 2026
+  - 2026 Geo for Good Summit Bogotá, https://earthoutreachonair.withgoogle.com/events/geoforgood26-bogota, Google office, Bogotá, Colombia, 29--30 September 2026
   - GEOINFO 2026, https://geoinfobr.github.io/, São José dos Campos, Brazil, 07-09 December 2026
 
 ## Similar lists

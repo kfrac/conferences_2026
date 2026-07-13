@@ -58,7 +58,7 @@
   - CaGIS Conference, https://cartogis.org/conferences/cagis2026/, St. Louis, 8--11 September 2026
   - 2026 Geo for Good Earth Engine Impact Partner Summit, https://earthoutreachonair.withgoogle.com/events/geoforgood26-map, Google Headquarters, Mountain View, CA, USA, 15--17 September 2026
   - CNG Forum 2026, https://2026.cloudnativegeo.org/, Snowbird, 6--9 October 2026
-  - FOSS4G North America 2026, TBD
+  - FOSS4G North America 2026, https://www.foss4gna.org/, Sacramento, CA, USA, 2--4 November 2026
 
 ## Oceania
   - Advancing Earth Observations Forum, 2026, https://www.earthobsforum.org/, Hobart, Australia, 9--12 November 2026

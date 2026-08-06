@@ -40,6 +40,7 @@
   - QGIS conference 2026, https://conference.qgis.org, Switzerland, 5-6 October 2026
   - FOSS4g:UK 2026, https://uk.osgeo.org/foss4guk2026/, Leeds, 12-13 October 2026
   - Open-Earth-Monitor Global Workshop 2026, https://earthmonitor.org/global-workshop-2026/, Barcelona, 7--9 October 2026
+  - **(French+Dutch+English)** FOSS4G Belgium - https://www.foss4g.be/, Brussels, 15 October 2026
 
 <!--
 🌍3D GeoInfo | Next year: Sofia, Bulgaria!

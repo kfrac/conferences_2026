@@ -35,6 +35,7 @@
   - 1st International Conference on Land Degradation and Restoration, https://landdegradationrestoration.eu/, Valencia, 20--26 July 2026
   - State of the Map 2026, https://2026.stateofthemap.org/, Paris, 28--30 August 2026
   - Spatial Data Science across Languages (SDSL) 2026, https://spatial-data-science.github.io/2026/, Jena, Germany, 16-17 (+18) September 2026
+  - Intergeo, https://dvw.de/intergeo/en/conference, Munich, 15--17 September 2026
   - The 17th Conference on Spatial Information Theory (COSIT), https://www.cosit2026.uk/, York, 22--25 September 2026
   - 45th EARSeL Symposium, https://athens2026.earsel.org/, Athens, 29 September--02 October 2026
   - QGIS conference 2026, https://conference.qgis.org, Switzerland, 5-6 October 2026
